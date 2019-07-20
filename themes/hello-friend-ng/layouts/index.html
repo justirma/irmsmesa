@@ -1,0 +1,26 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            <h1>{{ .Site.Title }}</h1>
+
+            {{- with .Site.Params.homeSubtitle }}
+                <h4>{{.}}</h4>
+            {{- end }}
+
+            <p>I also dabble in consulting, link coming soon!</p>
+               
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+        <!-- Calendly badge widget begin -->
+        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+        <script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/_justirma/1on1-call', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
+        <!-- Calendly badge widget end -->
+    </main>
+{{ end }}
+
+            
