@@ -14,7 +14,7 @@ draft = false
 
 ## Introducing your POC co-working platform
 
-![HeyDay website landing page](/heyday-landing.png)
+![HeyDay website landing page](/heyday_landing.png)
 
 HeyDay is a passion project of mine. As a triple minority it can be nervewracking entering new spaces where I don't see people that look like me.
 
