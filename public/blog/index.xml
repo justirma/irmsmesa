@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Hi, I&#39;m Irma.</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Struggling with finding remote engineering roles? This can help.</title>
+      <link>/blog/find-and-land-your-next-remote-engineering-role/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/find-and-land-your-next-remote-engineering-role/</guid>
+      <description>I&amp;rsquo;ll be covering 2 big topics to help you find and land your next Remote Engineering role. The first is understanding how to best showcase that you&amp;rsquo;re open and ready to work in a remote work environment. Secondly, I&amp;rsquo;ll show you a few sites that have truly worked for friends in the past to find and at least get an interview for a remote role.
+Building and starting to showcase your remote experience Here are few ways to spin remote work experience and showcase it if you&amp;rsquo;re applying for a job that requires remote experience:</description>
+    </item>
     
     <item>
       <title>struggling with endless meetings?</title>
@@ -108,16 +118,6 @@ As a Dev Manager, Scrum Master, Product Manager &amp;amp; CTO (I know, there are
       
       <guid>/blog/creation-dun-nouveau-theme/</guid>
       <description>Let me start with this: props to the person who submitted this question on #AskWiP! It’s a question that many have when they’re starting to build product skills and for good reason — open source product management opportunities are difficult to find. Unlike software engineering, where you’ll find Github projects or non-profit organizations actively looking for volunteers at any level to come on board and contribute, open source projects that look for volunteer PMs are almost non-existent.</description>
-    </item>
-    
-    <item>
-      <title>building (a weekly podcast newsletter) in 48 hours with no-code</title>
-      <link>/blog/creation-dun-nouveau-theme/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/creation-dun-nouveau-theme/</guid>
-      <description>Podcasts - Why? Everyday there’s a new podcast being created, a new episode being recorded or research being done on what topics to discuss! Podcasts have become a go-to to pass the time or learn/hear people’s story. There are days where you just want to hear a really awesome and captivating discussion on a topic you love!
-I will say that there are a ton of podcasts out there to choose from.</description>
     </item>
     
   </channel>
